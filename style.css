@@ -1,1 +1,9 @@
-
+body{
+    background-image: url(../images/background.jpg);
+    background-size: 100%;
+}
+table{
+    background-color: #D0DDDB;
+    border-radius: 10px;
+    border: 0;
+}
